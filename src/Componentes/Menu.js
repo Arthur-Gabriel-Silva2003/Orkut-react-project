@@ -7,7 +7,7 @@ function Menu () {
     return(
         <div className="contorno">
             <div className="perfil">
-                <img src="https://pps.whatsapp.net/v/t61.24694-24/307221439_172302815452338_1825253643373935253_n.jpg?ccb=11-4&oh=01_AVzYY6J4NqSzOWG3wNnY2VO3gC3qZpZz0xjP6HtfGpEjXQ&oe=6354D07C"/>
+                <img src="https://avatars.githubusercontent.com/u/110573448?v=4"/>
                 <h3>Arthur Gabriel</h3>
             </div>
             <h4 className="status">Status <BsFillPencilFill/></h4>
@@ -15,7 +15,7 @@ function Menu () {
                 <li className="disp">disponivel</li>
             </ul>
 
-            <p>Qualquer coisaaa teste teste yakult miojo </p>
+            <p>Hello, World! Sou Arthur Gabriel e quero fazer novas amizades :) </p>
 
             <div className="opc">
                 <p><HiOutlineUser/> Perfil</p>
